@@ -7,7 +7,7 @@ public class Main {
         Abiturient ab[]=new Abiturient[3];
         ab[0] = new Abiturient("Akylbek", "Zhk akku", "+77088010919", 98);
         ab[1] = new Abiturient("Aduna", "Zhk lebed", "+77777777777", 97);
-        ab[2] = new Abiturient("Sanzhar", "Zhk ptitca", "+77081067152", 0);
+        ab[2] = new Abiturient("Sanzhar", "Zhk ptitca", "+77081067152", 40);
 
 
         for (int i = 0; i < ab.length; i++) {
